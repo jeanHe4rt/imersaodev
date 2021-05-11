@@ -1,0 +1,15 @@
+button {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 60px;
+  width: 420px;
+  height: 50px;
+  font-family: inherit;
+  font-size: 16px;
+  background-color: #f1d370;
+  border-radius: 8px;
+  border: 2px solid rgba(0, 0, 0, 1)
+  border-color: #000;
+  box-shadow: 4px 4px 6px 0px rgba(0, 0, 0, 0.25);
+}
