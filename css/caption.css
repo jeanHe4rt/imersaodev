@@ -1,0 +1,5 @@
+.caption {
+  color: var(--color-white-second);
+  text-shadow: 4px 4px 6px var(--color-black);
+  line-height: 24px;
+}

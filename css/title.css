@@ -3,4 +3,7 @@ h1 {
   color: var(--color-white-third);
   text-shadow: 4px 4px 6px var(--color-black);
   text-align: center;
+
+  margin-top: 50px;
+  margin-bottom: 40px;
 }

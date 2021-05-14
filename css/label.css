@@ -6,4 +6,5 @@ label {
   color: var(--color-black);
 
   text-align: center;
+  margin-bottom: 15px;
 }
